@@ -1,4 +1,4 @@
-MyGame World - легендарный SA:MP проект 2010-2016 годов, основанный на исходниках SenseGame<br>
+MyGame World — легендарный SA:MP проект 2010-2016 годов, основанный на исходниках SenseGame<br>
 Версия игрового мода - v3.8.3 (Исходник 2013 года)<br>
 Оригинальные авторы MyGame - Niral & Nixon<br>
 Перенос под open.mp и обновление mysql - MrLomaster<br>
